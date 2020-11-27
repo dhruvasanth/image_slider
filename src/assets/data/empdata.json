@@ -1,0 +1,6 @@
+[
+    {"name": "ABK", "id":1,"location":"chennai"},
+    {"name": "KVB", "id":2,"location":"banglore"},
+    {"name": "ICICI", "id":3,"location":"mumbai"},
+    {"name": "HDFC", "id":4,"location":"indhor"}
+  ]
